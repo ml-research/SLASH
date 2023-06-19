@@ -103,3 +103,6 @@ If you use this code for your research, please cite our conference paper at [KR2
   year={2022}
 }
 ```
+
+## Acknowlegments  
+This work was partly supported by the Federal Minister of Education and Research (BMBF) and the Hessian Ministry of Science and the Arts (HMWK) within the National Research Center for Applied Cybersecurity ATHENE,  the ICT-48 Network of AI Research Excellence Center "TAILOR" (EU Horizon 2020, GA No 952215, and the Collaboration Lab with Nexplore "AI in Construction" (AICO). It also benefited from the BMBF AI lighthouse project, the Hessian research priority programme LOEWE within the project WhiteBox, the HMWK cluster projects "The Third Wave of AI" and "The Adaptive Mind", the German Center for Artificial Intelligence (DFKI) project "SAINT".
