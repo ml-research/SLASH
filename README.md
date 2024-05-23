@@ -30,7 +30,7 @@ Question Answering (VQA).
 
 
 ## Introduction
-This is the repository for SLASH, the deep declarative probabilistic programming language introduced within **Neural-Probabilistic Answer Set Programming** [![KR](https://img.shields.io/badge/Conference-KR2022-blue)](https://kr2022.cs.tu-dortmund.de/index.php) and **Scalable Neural-Probabilistic Answer Set Programming** [![arXiv](https://img.shields.io/badge/arXiv-2306.08397-<COLOR>.svg)](https://arxiv.org/abs/2306.08397). [Link](https://arxiv.org/abs/2306.08397) to the preprint.
+This is the repository for SLASH, the deep declarative probabilistic programming language introduced within **Neural-Probabilistic Answer Set Programming** [![KR](https://img.shields.io/badge/Conference-KR2022-blue)](https://kr2022.cs.tu-dortmund.de/index.php) and **Scalable Neural-Probabilistic Answer Set Programming** [![JAIR](https://img.shields.io/badge/Conference-JAIR-blue.svg)](https://jair.org/index.php/jair/article/view/15027). [Link](https://jair.org/index.php/jair/article/view/15027) to the paper.
  
 
 
@@ -93,8 +93,18 @@ Go visit the  ``` src/experiments/mnist_top_k``` folder to get familar with SLAS
 
 ## Citation
 
-If you use this code for your research, please cite our conference paper at [KR22](https://proceedings.kr.org/2022/48/)
-
+If you use this code for your research, please cite our journal paper at [JAIR](https://jair.org/index.php/jair/article/view/15027) or the conference paper at [KR22](https://proceedings.kr.org/2022/48/)
+```
+@article{skryagin23JAIR,
+  year = { 2023 },
+  crossref = { https://github.com/ml-research/SLASH },
+  title = { Scalable Neural-Probabilistic Answer Set Programming },
+  pages = { 579--617 },
+  volume = { 78 },
+  journal = { Journal of Artificial Intelligence Research (JAIR) },
+  author = {Skryagin, Arseny and Ochs, Daniel and Dhami, Devendra Singh and Kersting, Kristian},
+}
+```
 ```
 @inproceedings{skryagin2022KR,
   title={Neural-Probabilistic Answer Set Programming},
